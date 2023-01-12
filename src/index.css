@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.item1{
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.5);
+ 
+}
+
+.img-fluid{
+  height: 220px;
+}
+
+.main-title h1{
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.price-book-divide h2 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #4db6ac;
+}
+
+.price-book-divide {
+    margin-bottom: 10px;
+}
+
+.row{
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.btn-primary {
+  background-color: #4db6ac;
+  outline: none;
+  border: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-warning:hover{
+  background-color: black;
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToDo-React-Lsit/static/css/main.fa3a8e95.css",
+    "main.js": "/ToDo-React-Lsit/static/js/main.dcdc06e7.js",
+    "index.html": "/ToDo-React-Lsit/index.html",
+    "main.fa3a8e95.css.map": "/ToDo-React-Lsit/static/css/main.fa3a8e95.css.map",
+    "main.dcdc06e7.js.map": "/ToDo-React-Lsit/static/js/main.dcdc06e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa3a8e95.css",
+    "static/js/main.dcdc06e7.js"
+  ]
+}
